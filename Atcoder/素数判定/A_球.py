@@ -1,0 +1,1 @@
+#https://atcoder.jp/contests/bcu30-2018/tasks/bcu30_2018_a

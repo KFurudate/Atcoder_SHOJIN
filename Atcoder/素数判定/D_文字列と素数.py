@@ -1,0 +1,1 @@
+#https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_d

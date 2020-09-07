@@ -1,0 +1,4 @@
+X = list(map(int, input().split()))
+for idx, x in enumerate(X):
+    if x == 0:
+        print(idx+1)

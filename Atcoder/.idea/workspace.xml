@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85e7a7f8-aafa-41b0-8aa7-1a52e8659fe6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Atcoder" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RSsyXHFcnNAAKWTfZ5cIepivYV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/累積和" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/累積和" />
+      <recent name="$PROJECT_DIR$/20200311_LCA" />
+      <recent name="$PROJECT_DIR$/20200303_Union_Find" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Go" type="PythonConfigurationType" factoryName="Python">
+      <module name="Atcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20200809_くじかつ_56" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20200809_くじかつ_56/D - Caracal vs Monster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85e7a7f8-aafa-41b0-8aa7-1a52e8659fe6" name="Default Changelist" comment="" />
+      <created>1569672086058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569672086058</updated>
+      <workItem from="1569672087178" duration="5322000" />
+      <workItem from="1570226063754" duration="4068000" />
+      <workItem from="1570231441835" duration="5000" />
+      <workItem from="1570241185194" duration="927000" />
+      <workItem from="1570248302531" duration="417000" />
+      <workItem from="1570276729129" duration="2496000" />
+      <workItem from="1571486527129" duration="2899000" />
+      <workItem from="1571535123081" duration="1000" />
+      <workItem from="1571535152157" duration="6283000" />
+      <workItem from="1571628594099" duration="5765000" />
+      <workItem from="1572181349253" duration="1956000" />
+      <workItem from="1572227945183" duration="3735000" />
+      <workItem from="1573906677893" duration="3476000" />
+      <workItem from="1574216908476" duration="171000" />
+      <workItem from="1577016518327" duration="1100000" />
+      <workItem from="1577017708436" duration="2481000" />
+      <workItem from="1577115784975" duration="3239000" />
+      <workItem from="1577126518043" duration="2000" />
+      <workItem from="1577152243326" duration="869000" />
+      <workItem from="1577411029456" duration="1061000" />
+      <workItem from="1577460707404" duration="2730000" />
+      <workItem from="1577481349557" duration="190000" />
+      <workItem from="1577481561056" duration="2138000" />
+      <workItem from="1577993700535" duration="1518000" />
+      <workItem from="1578005561593" duration="1764000" />
+      <workItem from="1578064866818" duration="12585000" />
+      <workItem from="1578104414311" duration="8295000" />
+      <workItem from="1578149621370" duration="20914000" />
+      <workItem from="1578235700859" duration="2951000" />
+      <workItem from="1578259937130" duration="3494000" />
+      <workItem from="1578277122708" duration="2490000" />
+      <workItem from="1578320473757" duration="20875000" />
+      <workItem from="1578364200343" duration="6546000" />
+      <workItem from="1578406932863" duration="11715000" />
+      <workItem from="1578446423497" duration="6623000" />
+      <workItem from="1578494382177" duration="16105000" />
+      <workItem from="1578533270904" duration="10350000" />
+      <workItem from="1578586765109" duration="17294000" />
+      <workItem from="1578611401502" duration="22000" />
+      <workItem from="1578620521961" duration="8362000" />
+      <workItem from="1578660225355" duration="996000" />
+      <workItem from="1578830420100" duration="3881000" />
+      <workItem from="1578888765745" duration="1563000" />
+      <workItem from="1578942982408" duration="10320000" />
+      <workItem from="1578970425815" duration="5997000" />
+      <workItem from="1579057082683" duration="2792000" />
+      <workItem from="1579102566182" duration="4551000" />
+      <workItem from="1579122272123" duration="3037000" />
+      <workItem from="1579150930635" duration="720000" />
+      <workItem from="1579186959540" duration="947000" />
+      <workItem from="1579208748766" duration="1842000" />
+      <workItem from="1579237437010" duration="242000" />
+      <workItem from="1579271031294" duration="821000" />
+      <workItem from="1579275473718" duration="2556000" />
+      <workItem from="1579280601254" duration="18000" />
+      <workItem from="1579280641223" duration="572000" />
+      <workItem from="1579292464165" duration="46000" />
+      <workItem from="1579746286270" duration="1745000" />
+      <workItem from="1579790821015" duration="1630000" />
+      <workItem from="1580040686346" duration="3662000" />
+      <workItem from="1580097414694" duration="2985000" />
+      <workItem from="1582170921051" duration="1689000" />
+      <workItem from="1582689625220" duration="3069000" />
+      <workItem from="1582743857484" duration="178000" />
+      <workItem from="1582744201454" duration="14000" />
+      <workItem from="1582746113208" duration="285000" />
+      <workItem from="1583159565713" duration="3628000" />
+      <workItem from="1583183064053" duration="2471000" />
+      <workItem from="1583208503922" duration="753000" />
+      <workItem from="1583247860204" duration="9252000" />
+      <workItem from="1583270342869" duration="2531000" />
+      <workItem from="1583292125170" duration="5465000" />
+      <workItem from="1583334384524" duration="6024000" />
+      <workItem from="1583353816856" duration="233000" />
+      <workItem from="1583354251633" duration="5953000" />
+      <workItem from="1583376811280" duration="2841000" />
+      <workItem from="1583420270673" duration="1055000" />
+      <workItem from="1583437722006" duration="1902000" />
+      <workItem from="1583447205702" duration="1707000" />
+      <workItem from="1583469793352" duration="976000" />
+      <workItem from="1583543116796" duration="376000" />
+      <workItem from="1583552252071" duration="821000" />
+      <workItem from="1583582722619" duration="3060000" />
+      <workItem from="1583597579380" duration="1116000" />
+      <workItem from="1583679768239" duration="933000" />
+      <workItem from="1583688879715" duration="1956000" />
+      <workItem from="1583701714126" duration="2054000" />
+      <workItem from="1583771369653" duration="6387000" />
+      <workItem from="1583804497211" duration="2171000" />
+      <workItem from="1583848482186" duration="10403000" />
+      <workItem from="1583897182861" duration="3525000" />
+      <workItem from="1583941046120" duration="2325000" />
+      <workItem from="1583986498781" duration="1911000" />
+      <workItem from="1584029472522" duration="2538000" />
+      <workItem from="1584040661053" duration="247000" />
+      <workItem from="1584070402620" duration="1926000" />
+      <workItem from="1584103926330" duration="236000" />
+      <workItem from="1584119847543" duration="707000" />
+      <workItem from="1584128398623" duration="4287000" />
+      <workItem from="1584140353170" duration="743000" />
+      <workItem from="1584146643028" duration="4552000" />
+      <workItem from="1584191835226" duration="2402000" />
+      <workItem from="1584215830431" duration="3952000" />
+      <workItem from="1584239389491" duration="444000" />
+      <workItem from="1584242946286" duration="1561000" />
+      <workItem from="1584282517152" duration="1209000" />
+      <workItem from="1584311811291" duration="3197000" />
+      <workItem from="1584335510586" duration="739000" />
+      <workItem from="1584362818488" duration="4079000" />
+      <workItem from="1584371903998" duration="5702000" />
+      <workItem from="1584410717230" duration="4949000" />
+      <workItem from="1584450227693" duration="4006000" />
+      <workItem from="1584462703301" duration="3679000" />
+      <workItem from="1584472759828" duration="4230000" />
+      <workItem from="1584495229514" duration="3231000" />
+      <workItem from="1584535178722" duration="1862000" />
+      <workItem from="1584553339270" duration="4158000" />
+      <workItem from="1584578473897" duration="4135000" />
+      <workItem from="1584636047440" duration="5958000" />
+      <workItem from="1584656281053" duration="3300000" />
+      <workItem from="1584673037346" duration="3013000" />
+      <workItem from="1584712521141" duration="1494000" />
+      <workItem from="1584732104814" duration="3194000" />
+      <workItem from="1584741488701" duration="114000" />
+      <workItem from="1584757807584" duration="1374000" />
+      <workItem from="1584764935004" duration="1360000" />
+      <workItem from="1584793848758" duration="627000" />
+      <workItem from="1584796881154" duration="10249000" />
+      <workItem from="1584824751498" duration="2056000" />
+      <workItem from="1584843910311" duration="808000" />
+      <workItem from="1584877889764" duration="4361000" />
+      <workItem from="1584893414489" duration="6782000" />
+      <workItem from="1584931826337" duration="3157000" />
+      <workItem from="1584991763577" duration="1168000" />
+      <workItem from="1584994352080" duration="3000" />
+      <workItem from="1585109472336" duration="2687000" />
+      <workItem from="1585140274502" duration="1900000" />
+      <workItem from="1585154678266" duration="6138000" />
+      <workItem from="1585228516817" duration="1881000" />
+      <workItem from="1585244019201" duration="242000" />
+      <workItem from="1585315251778" duration="2351000" />
+      <workItem from="1585324133813" duration="7353000" />
+      <workItem from="1585361723847" duration="1495000" />
+      <workItem from="1585396741536" duration="4091000" />
+      <workItem from="1585435455096" duration="208000" />
+      <workItem from="1585449712998" duration="3660000" />
+      <workItem from="1585484933369" duration="1281000" />
+      <workItem from="1585516330799" duration="1609000" />
+      <workItem from="1585573270465" duration="2392000" />
+      <workItem from="1585586912193" duration="5947000" />
+      <workItem from="1585596627206" duration="14000" />
+      <workItem from="1585603445809" duration="2435000" />
+      <workItem from="1585620026045" duration="3508000" />
+      <workItem from="1585672519117" duration="827000" />
+      <workItem from="1585674627654" duration="3602000" />
+      <workItem from="1585687405083" duration="1631000" />
+      <workItem from="1585700717491" duration="610000" />
+      <workItem from="1585710315064" duration="2134000" />
+      <workItem from="1585745420206" duration="2533000" />
+      <workItem from="1585754439307" duration="3452000" />
+      <workItem from="1585765476998" duration="1690000" />
+      <workItem from="1585778774008" duration="2941000" />
+      <workItem from="1585787533470" duration="1000" />
+      <workItem from="1585791655898" duration="3526000" />
+      <workItem from="1585798875815" duration="863000" />
+      <workItem from="1585831711572" duration="2731000" />
+      <workItem from="1585836300789" duration="2000" />
+      <workItem from="1585837552390" duration="1621000" />
+      <workItem from="1585859642141" duration="378000" />
+      <workItem from="1585871966948" duration="284000" />
+      <workItem from="1585875981574" duration="3169000" />
+      <workItem from="1585919458488" duration="2611000" />
+      <workItem from="1585925273814" duration="3122000" />
+      <workItem from="1585937082410" duration="3785000" />
+      <workItem from="1586002081731" duration="3270000" />
+      <workItem from="1586023090168" duration="3210000" />
+      <workItem from="1586042906237" duration="2449000" />
+      <workItem from="1586095066608" duration="2988000" />
+      <workItem from="1586104083234" duration="8902000" />
+      <workItem from="1586134563362" duration="2902000" />
+      <workItem from="1586141003415" duration="1070000" />
+      <workItem from="1586264808294" duration="2364000" />
+      <workItem from="1586664350143" duration="246000" />
+      <workItem from="1586692632117" duration="4370000" />
+      <workItem from="1586746370053" duration="63000" />
+      <workItem from="1587297975751" duration="3991000" />
+      <workItem from="1587343573314" duration="1834000" />
+      <workItem from="1587385201342" duration="4000" />
+      <workItem from="1587615739034" duration="936000" />
+      <workItem from="1587874005101" duration="1646000" />
+      <workItem from="1587902366157" duration="2862000" />
+      <workItem from="1587950704951" duration="2989000" />
+      <workItem from="1587992086823" duration="884000" />
+      <workItem from="1588004450356" duration="861000" />
+      <workItem from="1588013158954" duration="2585000" />
+      <workItem from="1588420970968" duration="2463000" />
+      <workItem from="1588500001002" duration="7647000" />
+      <workItem from="1588768599123" duration="2248000" />
+      <workItem from="1588976294650" duration="1080000" />
+      <workItem from="1589111683863" duration="4148000" />
+      <workItem from="1589158008510" duration="8435000" />
+      <workItem from="1589199458863" duration="8650000" />
+      <workItem from="1589634396184" duration="5316000" />
+      <workItem from="1589716713514" duration="2570000" />
+      <workItem from="1589859179130" duration="501000" />
+      <workItem from="1590511382913" duration="1959000" />
+      <workItem from="1591305619051" duration="1914000" />
+      <workItem from="1591369415414" duration="1487000" />
+      <workItem from="1592135541701" duration="5780000" />
+      <workItem from="1592171972682" duration="7267000" />
+      <workItem from="1592223223521" duration="3351000" />
+      <workItem from="1592228189438" duration="655000" />
+      <workItem from="1592229534964" duration="1689000" />
+      <workItem from="1592234173002" duration="1940000" />
+      <workItem from="1592740526664" duration="2000" />
+      <workItem from="1592740534111" duration="8151000" />
+      <workItem from="1592884343153" duration="977000" />
+      <workItem from="1592914806816" duration="567000" />
+      <workItem from="1593001688046" duration="1196000" />
+      <workItem from="1593087004613" duration="966000" />
+      <workItem from="1593176737072" duration="776000" />
+      <workItem from="1593258504305" duration="3590000" />
+      <workItem from="1593288805280" duration="2219000" />
+      <workItem from="1593346892249" duration="1748000" />
+      <workItem from="1593352566221" duration="1224000" />
+      <workItem from="1593359176030" duration="4990000" />
+      <workItem from="1593436355439" duration="1924000" />
+      <workItem from="1593520282786" duration="512000" />
+      <workItem from="1593614208285" duration="1556000" />
+      <workItem from="1593693928526" duration="572000" />
+      <workItem from="1593778188806" duration="1069000" />
+      <workItem from="1593868491107" duration="1404000" />
+      <workItem from="1593950052278" duration="3006000" />
+      <workItem from="1593963767103" duration="2355000" />
+      <workItem from="1594039688407" duration="1055000" />
+      <workItem from="1594128089107" duration="1493000" />
+      <workItem from="1594234383173" duration="1514000" />
+      <workItem from="1594299100694" duration="811000" />
+      <workItem from="1594386197779" duration="971000" />
+      <workItem from="1594468731608" duration="4561000" />
+      <workItem from="1594557317596" duration="4374000" />
+      <workItem from="1594646152448" duration="662000" />
+      <workItem from="1594729031892" duration="397000" />
+      <workItem from="1594814428662" duration="3614000" />
+      <workItem from="1594900220394" duration="7232000" />
+      <workItem from="1594916976349" duration="452000" />
+      <workItem from="1594987162545" duration="4755000" />
+      <workItem from="1595045698634" duration="1203000" />
+      <workItem from="1595073718116" duration="11959000" />
+      <workItem from="1595160097478" duration="6186000" />
+      <workItem from="1595170351468" duration="3241000" />
+      <workItem from="1595246438380" duration="5532000" />
+      <workItem from="1595303646877" duration="1000" />
+      <workItem from="1595303706006" duration="150000" />
+      <workItem from="1595332891767" duration="3490000" />
+      <workItem from="1595434199972" duration="5553000" />
+      <workItem from="1595505487565" duration="6005000" />
+      <workItem from="1595592055664" duration="6044000" />
+      <workItem from="1595601383929" duration="1118000" />
+      <workItem from="1595681437163" duration="4376000" />
+      <workItem from="1595765093075" duration="6379000" />
+      <workItem from="1595851829353" duration="6724000" />
+      <workItem from="1595882599360" duration="1470000" />
+      <workItem from="1595938136421" duration="5787000" />
+      <workItem from="1596024633112" duration="454000" />
+      <workItem from="1596111739530" duration="3683000" />
+      <workItem from="1596197336351" duration="6867000" />
+      <workItem from="1596285428958" duration="4037000" />
+      <workItem from="1596369566895" duration="4867000" />
+      <workItem from="1596458956225" duration="3704000" />
+      <workItem from="1596598734706" duration="1379000" />
+      <workItem from="1596630814037" duration="2766000" />
+      <workItem from="1596716774696" duration="3611000" />
+      <workItem from="1596802187487" duration="4517000" />
+      <workItem from="1596889692266" duration="4813000" />
+      <workItem from="1596975989469" duration="2940000" />
+      <workItem from="1597062891271" duration="646000" />
+      <workItem from="1597149248475" duration="4177000" />
+      <workItem from="1597236094127" duration="5319000" />
+      <workItem from="1597322813022" duration="3703000" />
+      <workItem from="1597408167903" duration="3750000" />
+      <workItem from="1597492993396" duration="4669000" />
+      <workItem from="1597582233368" duration="3826000" />
+      <workItem from="1597668918079" duration="3360000" />
+      <workItem from="1597755085380" duration="4368000" />
+      <workItem from="1597841056226" duration="4879000" />
+      <workItem from="1597927297101" duration="4494000" />
+      <workItem from="1598013840200" duration="4365000" />
+      <workItem from="1598097669881" duration="4607000" />
+      <workItem from="1598187108678" duration="3352000" />
+      <workItem from="1598273477602" duration="2948000" />
+      <workItem from="1598361719791" duration="1680000" />
+      <workItem from="1598447457165" duration="1947000" />
+      <workItem from="1598538043523" duration="1865000" />
+      <workItem from="1598644815347" duration="1452000" />
+      <workItem from="1598702410567" duration="4299000" />
+      <workItem from="1598712527638" duration="188000" />
+      <workItem from="1598790534844" duration="3271000" />
+      <workItem from="1598877566028" duration="2910000" />
+      <workItem from="1598964625979" duration="2895000" />
+      <workItem from="1599049029821" duration="3896000" />
+      <workItem from="1599138166368" duration="2873000" />
+      <workItem from="1599222998240" duration="4474000" />
+      <workItem from="1599309445529" duration="3048000" />
+      <workItem from="1599397952597" duration="3051000" />
+      <workItem from="1599481920263" duration="5623000" />
+      <workItem from="1599495816059" duration="10000" />
+      <workItem from="1599495836293" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191005_AtCoder Grand Contest 039/A - Connection and Disconnection.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191019_ AtCoder_Beginner_Contest_143/B - TAKOYAKI FESTIVAL 2019.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191019_ AtCoder_Beginner_Contest_143/C - Slimes.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191019_ AtCoder_Beginner_Contest_143/D - Triangles.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191019_ AtCoder_Beginner_Contest_143/E_test.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191027_AtCoder_Beginner_COntest_144/D - Water Bottle.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191116_ AtCoder Beginner Contest 145/C_Average Length.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20191223_AtCoder Beginner Contest 147/D_test01.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200103_Educational_DP_contest/A_similar_issues/C_Vacation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200103_Educational_DP_contest/D_test.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200103_Educational_DP_contest/E_test.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200103_Educational_DP_contest/F_test.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_Ant_book(Beginner)/1-6-1_三角形/ABC_051_B_Sum_of_Three_Integers.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/3_ABC_081_B_Shift_Only/ABC_113_B_Palace.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/5_ABC_083_B_Some_Sums/ABC_083_B_Some Sums.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/5_ABC_083_B_Some_Sums/ABC_090_B_Palindromic_Numbers　.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/5_ABC_083_B_Some_Sums/AGC_025_A_Digits_Sum.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/8_ABC_085_C_Otoshidama/ABC_074_C_Sugar_Water.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/9_ABC_049_C_Daydream/ABC_049_C_Daydream.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/9_ABC_049_C_Daydream/AGC_011_A_Airport_Bus.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/9_ABC_049_C_Daydream/ABC_059_C_Sequence.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/9_ABC_049_C_Daydream/ABC_059_C_Sequence_2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/10_ABC_086_C_Traveling/ABC_086_C_Traveling.py</url>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/10_ABC_086_C_Traveling/ABC_093_C_Same_Integers.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200106_過去問精選10問/グリッドに関する処理/ABC_075_B.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200113_BFS/ABC_007_C_BFS.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200113_BFS/E_Cheese_BFS.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200113_BFS/ABC_088_D_Grid_Repainting_BFS.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200116_DFS/ABC_054_C_One_stroke_path_DFS.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200122_順列_組み合わせ_itertools/ABC015_C_高橋くんのバグ探し.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200308_ABC_133/E_Virus_Tree_2.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200307_ABC_158/E_Divisible_Substring.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/しゃくとり法/C_単調増加_abc_038_しゃくとり法.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/しゃくとり法/D_サプリメント_ABC_017_しゃくとり法.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/しゃくとり法/D_サプリメント_ABC_017_しゃくとり法.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/あれもこれも実はグラフ/二部グラフ判定/D_Even_Relation_ABC126_二部グラフ.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/データを工夫して記録する_データ構造/プライオリティーキューとヒープ/C_Factory_優先度付きキュー.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/データを工夫して記録する_データ構造/プライオリティーキューとヒープ/C_Factory_優先度付きキュー.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200321_ABC_159/E.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200328_ABC_160/D_ans.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/木DP_全方位木DP/N_木_木DP.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/木DP_全方位木DP/二項係数の求め方_逆元/B_RGB_Coloring.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/木DP_全方位木DP/D_塗り絵_木DP.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/木DP_全方位木DP/P_Independent_Set_木DP.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200328_ABC_160/F.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200328_ABC_160/F.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200412_ABC_162/F.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200419_ABC_163/D.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200419_ABC_163/E.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200502_ABC_165/C.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200502_ABC_165/C.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200510_ABC_167/C.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200510_ABC_167/D_ダブリング.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200503_ABC_166/E.py</url>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20200627_ABC_172/C.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Atcoder$Go.coverage" NAME="Go Coverage Results" MODIFIED="1596980564020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200809_くじかつ_56" />
+  </component>
+</project>

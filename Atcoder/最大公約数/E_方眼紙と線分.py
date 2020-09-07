@@ -1,0 +1,1 @@
+#https://atcoder.jp/contests/cf16-relay-open/tasks/relay_e
