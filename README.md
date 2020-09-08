@@ -2,3 +2,4 @@
 
 Submitted daily SHOJIN with Automator(Mac).
 "SHOJIN" means to continue to practice and improve our skills.
+# Atcoder_SHOJIN
