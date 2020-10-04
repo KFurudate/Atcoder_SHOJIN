@@ -1,11 +1,6 @@
 import math
 
-a, b = map(int, input().split())
-
-GCD = math.gcd(a, b)
-print(GCD)
-
-def factrization_prime(num):
+def factrize(num):
     factor = {}
     div = 2
     s = int(num**0.5)+1
@@ -20,3 +15,7 @@ def factrization_prime(num):
     if num > 1:
         factor[num] = 1
     return factor
+
+a, b = map(int, input().split())
+g = math.gcd(a, b)
+print(len(factrize(g))+1)
