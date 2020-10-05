@@ -10,6 +10,14 @@ def prime_fact(num):
         prime.append(num)
     return prime
 
-div_cnt = Counter(prime_fact(num))
+n = int(input())
+cnt = Counter(prime_fact(n))
 
-
+ans = 0
+for c in cnt.values():
+    tmp = 1
+    while c >= tmp:
+        c -= tmp
+        ans += 1
+        tmp += 1
+print(ans)
