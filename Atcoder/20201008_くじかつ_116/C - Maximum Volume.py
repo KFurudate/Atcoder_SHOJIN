@@ -1,4 +1,5 @@
-n = int(input())
-A = list(map(int, input().split()))
-B = list(map(int, input().split()))
+L = int(input())
 
+l = L/3
+ans = l**3
+print(ans)
