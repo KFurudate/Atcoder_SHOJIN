@@ -11,8 +11,14 @@ print(ans)
 
 ####################
 
-# 累積和
 n = int(input())
-A = list(map(int, input().split()))
-for i in range(1, n+1):
-    cnt = abs(A[0]-A[i])
+A = sorted(list(map(int, input().split())))
+
+s = 0
+ans = 0
+for i in range(n):
+    ans += A[i]*i
+    ans -= s
+    s += A[i]
+
+print(ans)
