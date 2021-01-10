@@ -533,7 +533,8 @@
       <workItem from="1609611831849" duration="905000" />
       <workItem from="1609682358256" duration="536000" />
       <workItem from="1609855721605" duration="2186000" />
-      <workItem from="1610026866773" duration="1090000" />
+      <workItem from="1610026866773" duration="1334000" />
+      <workItem from="1610114284273" duration="654000" />
     </task>
     <servers />
   </component>
@@ -815,6 +816,11 @@
           <url>file://$PROJECT_DIR$/20200627_ABC_172/C.py</url>
           <line>22</line>
           <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selected_100_past_exam_questions/二分探索/20210107_B - ムーアの法則.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="226" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
