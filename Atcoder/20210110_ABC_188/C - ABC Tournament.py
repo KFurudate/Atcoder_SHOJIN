@@ -1,0 +1,5 @@
+n = int(input())
+n = pow(2, n-1)
+A = list(map(int, input().split()))
+player = min(max(A[:n]), max(A[n:]))
+print(A.index(player)+1)
