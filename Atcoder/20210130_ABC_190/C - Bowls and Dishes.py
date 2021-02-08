@@ -3,35 +3,24 @@ AB = [list(map(int, input().split())) for _ in range(m)]
 k = int(input())
 CD = [list(map(int, input().split())) for _ in range(k)]
 
-cnt = [0] * n
-for a, b in AB:
-    a -= 1
-    b -= 1
-    cnt[a] += 1
-    cnt[b] += 1
+k2 = 1 << k
+ans = 0
+for s in range(k2):
+    dish = [0]*(n+1)
+    for i in range(k):
+        c, d = CD[i][0], CD[i][1]
+        if (s >> i) & 1:
+            dish[d] += 1
+        else:
+            dish[c] += 1
 
-ans = [0] * n
-for c, d in CD:
-    c -= 1
-    d -= 1
-    ans[c] += 1
-    ans[d] += 1
+    now = 0
+    for i in range(m):
+        a, b = AB[i][0], AB[i][1]
+        if dish[a] == 0: continue
+        if dish[b] == 0: continue
+        now += 1
 
-for c, d in CD:
-    c -= 1
-    d -= 1
-    if ans[c] == 1:
-        cnt[c] = 0
-        ans[c] = 0
+    ans = max(ans, now)
 
-    elif ans[d] == 1:
-        cnt[d] = 0
-        ans[d] = 0
-
-    elif cnt[c] >= cnt[d]:
-        cnt[c] = 0
-        
-    else:
-        cnt[d] = 0
-
-print(m - sum(cnt))
+print(ans)
