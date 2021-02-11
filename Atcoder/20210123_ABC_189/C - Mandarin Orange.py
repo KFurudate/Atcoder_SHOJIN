@@ -13,3 +13,16 @@ for a in A[1:]:
     a0 = a
 
 print(ans)
+
+######################
+#PyPy3:AC (Python3:TLE)
+n = int(input())
+A = list(map(int, input().split()))
+
+ans = 0
+for l in range(n):
+    x = A[l]
+    for r in range(l, n):
+        x = min(x, A[r])
+        ans = max(ans, x*(r-l+1))
+print(ans)
