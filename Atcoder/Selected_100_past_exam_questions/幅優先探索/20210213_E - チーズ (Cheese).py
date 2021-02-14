@@ -30,16 +30,16 @@ h, w, n = map(int, input().split())
 maze = [input() for _ in range(h)]
 
 goals = []
-for row in enumerate(maze):
-    for idx, area in enumerate(row):
-        if "S" in row:
-            sy, sx = row.find("S"), idx
-        elif area != "." or area != "X":
-            goals.append((row.find(str(area)), idx))
+for idx_h, row in enumerate(maze):
+    for idx_w, area in enumerate(row):
+        if "S" in area:
+            sy, sx = idx_w, idx_h
+        elif (area != ".") and (area != "X"):
+            goals.append((int(area), idx_w, idx_h))
 
 ans = 0
 goals = sorted(goals)
-for gx_, gy_ in goals:
+for cheese, gy_, gx_ in goals:
     ans += bfs(sx, sy, gx_, gy_)
     sx, sy = gx_, gy_
 
