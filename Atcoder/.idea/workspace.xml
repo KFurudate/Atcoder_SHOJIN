@@ -44,9 +44,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Selected_100_past_exam_questions" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/累積和" />
       <recent name="$PROJECT_DIR$/20200311_LCA" />
@@ -66,7 +69,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Go" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="GO" type="PythonConfigurationType" factoryName="Python">
       <module name="Atcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,14 +77,36 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20200809_くじかつ_56" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recommendation" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20200809_くじかつ_56/D - Caracal vs Monster.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recommendation/20210314_A - 大好き高橋君.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/Selected_100_past_exam_questions/input" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Atcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -551,6 +576,13 @@
       <workItem from="1613394169807" duration="55000" />
       <workItem from="1613473734911" duration="97000" />
       <workItem from="1613475901431" duration="1376000" />
+      <workItem from="1613538929265" duration="789000" />
+      <workItem from="1613563368463" duration="406000" />
+      <workItem from="1613713610705" duration="5226000" />
+      <workItem from="1614140037568" duration="1282000" />
+      <workItem from="1614165134954" duration="994000" />
+      <workItem from="1614339642860" duration="1123000" />
+      <workItem from="1615674917474" duration="861000" />
     </task>
     <servers />
   </component>
@@ -844,6 +876,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Atcoder$Go.coverage" NAME="Go Coverage Results" MODIFIED="1596980564020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200809_くじかつ_56" />
+    <SUITE FILE_PATH="coverage/Atcoder$Go.coverage" NAME="GO Coverage Results" MODIFIED="1613719308152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selected_100_past_exam_questions/動的計画法-ナップザックDP" />
+    <SUITE FILE_PATH="coverage/Atcoder$GO.coverage" NAME="GO Coverage Results" MODIFIED="1615675700339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recommendation" />
   </component>
 </project>
