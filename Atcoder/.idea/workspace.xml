@@ -82,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recommendation/20210316_C - Squared Error.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recommendation/20210317_B - 回転.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -584,7 +584,8 @@
       <workItem from="1614339642860" duration="1123000" />
       <workItem from="1615674917474" duration="861000" />
       <workItem from="1615800421504" duration="2457000" />
-      <workItem from="1615892409077" duration="1389000" />
+      <workItem from="1615892409077" duration="1487000" />
+      <workItem from="1615970598386" duration="603000" />
     </task>
     <servers />
   </component>
@@ -879,6 +880,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Atcoder$Go.coverage" NAME="GO Coverage Results" MODIFIED="1613719308152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selected_100_past_exam_questions/動的計画法-ナップザックDP" />
-    <SUITE FILE_PATH="coverage/Atcoder$GO.coverage" NAME="GO Coverage Results" MODIFIED="1615895590860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recommendation" />
+    <SUITE FILE_PATH="coverage/Atcoder$GO.coverage" NAME="GO Coverage Results" MODIFIED="1615971272894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recommendation" />
   </component>
 </project>
